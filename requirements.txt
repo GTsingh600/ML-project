@@ -1,11 +1,6 @@
-pandas
-numpy
+flask
 gunicorn
-seaborn
-matplotlib
-scikit-learn
-catboost
-xgboost
-Flask
-
-#-e .
+numpy
+pandas
+scikit-learn==1.2.2
+joblib
